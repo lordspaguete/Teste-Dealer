@@ -46,7 +46,7 @@ CONFIGURAÇÃO
 -------------
 
 ### Banco de Dados
-O arquivo .sql esta na pasta base/db efetue a importação para o seu banco de dados
+O arquivo .sql esta na pasta db efetue a importação para o seu banco de dados
 Edite o arquivo config/db.php com seus dados, por exemplo:
 
 ```php
