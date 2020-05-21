@@ -35,7 +35,7 @@ INSTALAÇÃO
 
 ### Instalação em Ambiente Local
 
-Baixar a pasta basic do repositorio e inserir na sua pasta aplicações do servidor.
+Baixar a pasta basic do repositorio e inserir na sua pasta de aplicações do servidor.
 
 ~~~
 http://localhost/basic/web/
