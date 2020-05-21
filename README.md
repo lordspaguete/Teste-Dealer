@@ -1,5 +1,3 @@
-# Teste-Dealer
-Aplicação para ler e extrair informações de usuários e seus acessos 
 <p align="center">
     <a href="https://github.com/yiisoft" target="_blank">
         <img src="https://avatars0.githubusercontent.com/u/993323" height="100px">
@@ -35,8 +33,9 @@ O requisito mínimo desse modelo de projeto para o servidor da Web suportar o PH
 INSTALAÇÃO
 ------------
 
-### Install via Composer
+### Instalação em Ambiente Local
 
+Baixar a pasta basic do repositorio e inserir na sua pasta aplicações do servidor.
 
 ~~~
 http://localhost/basic/web/
